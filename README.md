@@ -2,7 +2,7 @@
 
 # Traitz Tech
 
-![Traitz Tech Logo]()
+![Traitz Tech Logo](https://avatars.githubusercontent.com/u/146095202?s=400&u=7888c86665b140d9ca5ab53166c6ad10158b5748&v=4)
 
 ## About
 
