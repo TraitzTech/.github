@@ -10,7 +10,7 @@ Traitz Tech is a dynamic tech startup based in Bambili, Bamenda, in the North We
 
 Our Name:
 
-The name "Traitz" reflects our origin as a venture founded by three individuals, each bringing unique perspectives and skills to the table. Since our inception, we've evolved into a robust team comprising eight talented individuals, each embodying distinct character traits that contribute to our collective success.
+The name "Traitz" reflects our origin as a venture founded by three individuals, each bringing unique perspectives and skills to the table. Since our inception, we've evolved into a robust team comprising talented individuals, each embodying distinct character traits that contribute to our collective success.
 
 ## Website
 
@@ -28,7 +28,7 @@ At Traitz Tech, our mission is to revolutionize the tech industry by leveraging 
 
 ## Team
 
-Our diverse team of eight professionals embodies a spectrum of character traits, skills, and expertise. Together, we synergize our talents, experience, and passion to deliver top-notch solutions and exceed client expectations.
+Our diverse team of professionals embodies a spectrum of character traits, skills, and expertise. Together, we synergize our talents, experience, and passion to deliver top-notch solutions and exceed client expectations.
 
 ## Contact Us
 
