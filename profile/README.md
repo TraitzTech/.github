@@ -32,7 +32,7 @@ Our diverse team of professionals embodies a spectrum of character traits, skill
 
 ## Contact Us
 
-For inquiries, collaborations, or more information, reach out to us at [notify@traitz.tech](mailto:notify@traitz.tech) or visit our office in Bambili, Bamenda.
+For inquiries, collaborations, or more information, reach out to us at [info@traitz.tech](mailto:info@traitz.tech) or visit our office in Bambili, Bamenda.
 
 ## Stay Connected
 
